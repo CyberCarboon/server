@@ -1,0 +1,2 @@
+# server
+For My Script 
